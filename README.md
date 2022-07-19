@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Maurya</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">I'm a passionate developer and I'm pursuing a degree in Computer Science and Engineering field at BNM Institute of technology Bangalore,India. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj6maurya&label=Profile%20views&color=0e75b6&style=flat" alt="raj6maurya" /> </p>
 
