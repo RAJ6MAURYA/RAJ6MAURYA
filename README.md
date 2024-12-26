@@ -6,10 +6,6 @@ I'm Raj Maurya, a passionate software engineer with a love for open source and c
 
 I thrive on the challenges of software development and enjoy diving deep into complex technical problems. With a strong foundation in computer science and a keen eye for detail, I'm dedicated to delivering high-quality code that meets user and project requirements.
 
-### What You'll Find Here:
-
-On my GitHub, you'll discover a collection of projects that reflect my interests, skills, and contributions to the developer community. From AI and machine learning experiments to web development and beyond, I'm always exploring new horizons.
-
 ### Let's Collaborate:
 
 I believe that the best code is often the result of collaboration and shared knowledge. Feel free to explore my repositories, open issues, and submit pull requests. Let's learn and grow together as developers!
